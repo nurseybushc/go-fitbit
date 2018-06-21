@@ -12,7 +12,7 @@ This is very much a work in progress, for now only entity models are present.
 
 The next point to tackle are:
 
-* finishing the infrastructure in fitbit.go (see (here)[https://github.com/google/go-github/blob/master/github/github.go])
+* finishing the infrastructure in fitbit.go (see [here](https://github.com/google/go-github/blob/master/github/github.go))
 * figure out the authentication
 * implement the various calls (possibly starting from heart_rate.go)
 * implement tests
